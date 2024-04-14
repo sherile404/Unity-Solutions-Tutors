@@ -12,10 +12,10 @@ const ContactUs = () => {
           If you have any questions or need assistance, don't hesitate to get in touch with our team:
         </p>
         <p className="text-xl text-gray-500">
-          Email: <a className="text-white hover:underline" href="mailto:info@writerslanding.com">info@unitysolutions.com</a>
+          Email: <a className="text-white hover:underline" href="mailto:Unitysolutions04@gmail.com">Unitysolutions04@gmail.com</a>
         </p>
         <p className="text-xl text-gray-500 mt-4">
-          Phone: <a className="text-white hover:underline" href="tel:+11234567890">+1 (123) 456-7890</a>
+          Phone: <a className="text-white hover:underline" href="tel:+254715045309">+254715045309</a>
         </p>
         {/* social media icons fa react icons */}
         <div className="flex flex-row mt-8">
