@@ -10,7 +10,7 @@
 function App() {
   return (
     <div>
-{/*   <AppRouter/> */}
+  <AppRouter/>
       
     </div>
   );
